@@ -13,7 +13,7 @@ public class login {
 
     @When("user enters valid username and password")
     public void userEntersValidUsernameAndPassword() {
-
+System.out.println("user");
     }
 
     @And("clicks on login button")
