@@ -1,2 +1,2 @@
 # automation
-this is my first automation prog
+this is my first jenkins 
