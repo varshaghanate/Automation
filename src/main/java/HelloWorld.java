@@ -1,5 +1,6 @@
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("this is my first github commit integrating with jenkins");
+        System.out.println("this is my commit from feature into master");
     }
 }
